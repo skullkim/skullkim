@@ -1,6 +1,10 @@
 ### 💻 Do what you love 🛠.
 ### My Blog
 [iskull-dev](https://iskull-dev.tistory.com/)
+### Current Learning. 
+![docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
+![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white)
 ### Main skills
 ![js](https://img.shields.io/badge/-java%20script-%23F7DF1E?logo=JavaScript&logoColor=black&logoWidth=20)
 ![express](https://img.shields.io/badge/-express-%23339933?logo=Express&logoWidth=20)
