@@ -3,16 +3,16 @@
 [iskull-dev](https://iskull-dev.tistory.com/)
 ### Current Learning. 
 ![docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
-![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white)
 ### Main skills
-![js](https://img.shields.io/badge/-java%20script-%23F7DF1E?logo=JavaScript&logoColor=black&logoWidth=20)
+![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 ![express](https://img.shields.io/badge/-express-%23339933?logo=Express&logoWidth=20)
 ![react](https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoWidth=20&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-%234479A1?logo=MySQL&logoColor=white&logoWidth=20)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoWidth=20)  
   
 ### Experienced skills & languages
+![js](https://img.shields.io/badge/-java%20script-%23F7DF1E?logo=JavaScript&logoColor=black&logoWidth=20)
 ![jquery](https://img.shields.io/badge/-Jquery-%230769AD?logo=jQuery&logoWidth=20)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?logo=C&logoColor=white&logoWidth=20)
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=C++)
