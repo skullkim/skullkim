@@ -18,7 +18,9 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=C++)
 ![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20). 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skullkim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skullkim&show_icons=true&theme=radical). 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iskull)](https://solved.ac/iskull/)
 <!--
 **skullkim/skullkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
