@@ -23,7 +23,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iskull)](https://solved.ac/iskull/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullkim&langs_count=7)](https://github.com/anuraghazra/github-readme-stats). 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **skullkim/skullkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
