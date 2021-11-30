@@ -16,7 +16,9 @@
 ![jquery](https://img.shields.io/badge/-Jquery-%230769AD?logo=jQuery&logoWidth=20)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?logo=C&logoColor=white&logoWidth=20)
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=C++)
-![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20)
+![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20). 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skullkim&show_icons=true&theme=radical)
 <!--
 **skullkim/skullkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
