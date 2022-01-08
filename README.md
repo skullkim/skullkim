@@ -2,7 +2,7 @@
 ### My Blog
 [iskull-dev](https://iskull-dev.tistory.com/)  
 ### resuem
-[resume](https://skullkim.github.io/)
+[resume](https://www.skullkim-dev.com/)
 ### Current Learning. 
 ![docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white)
