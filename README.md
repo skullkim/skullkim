@@ -12,8 +12,8 @@
 ### Main skills
 ![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 ![express](https://img.shields.io/badge/-express-%23339933?logo=Express&logoWidth=20)
-![react](https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoWidth=20&logoColor=white)
-![mysql](https://img.shields.io/badge/-mysql-%234479A1?logo=MySQL&logoColor=white&logoWidth=20). 
+![react](https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoWidth=20&logoColor=white)  
+![mysql](https://img.shields.io/badge/-mysql-%234479A1?logo=MySQL&logoColor=white&logoWidth=20)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoWidth=20)
 ![docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white)
