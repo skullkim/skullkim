@@ -5,11 +5,8 @@
 [resume](https://www.skullkim-dev.com/)
 ### Current Learning. 
 
-![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-mB33F?logo=SpringBoot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
-![Junit5](https://img.shields.io/badge/junit5-%2325A162?logo=JUnit5&logoColor=white)
-![AssertJ](https://img.shields.io/badge/assertJ-%23ebd9a8)
 
 ### Main skills
 ![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
@@ -19,6 +16,10 @@
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoWidth=20)
 ![docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white)
+
+![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20)
+![Junit5](https://img.shields.io/badge/junit5-%2325A162?logo=JUnit5&logoColor=white)
+![AssertJ](https://img.shields.io/badge/assertJ-%23ebd9a8)
   
 ### Experienced skills & languages
 ![js](https://img.shields.io/badge/-java%20script-%23F7DF1E?logo=JavaScript&logoColor=black&logoWidth=20)
