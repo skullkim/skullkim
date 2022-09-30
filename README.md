@@ -1,29 +1,27 @@
-### 💻 Do what you love 🛠.
-### My Blog
-[iskull-dev](https://iskull-dev.tistory.com/)  
-### resuem
-[resume](https://www.skullkim-dev.com/)
-### Current Learning. 
+### 💻 Do what you love 🛠
+### [My Blog](https://iskull-dev.tistory.com/)  
 
+### [Resume](https://www.skullkim-dev.com/)
+
+### Skills
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-mB33F?logo=SpringBoot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
 
-### Main skills
-![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 ![express](https://img.shields.io/badge/-express-%23339933?logo=Express&logoWidth=20)
 ![react](https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoWidth=20&logoColor=white)  
 ![mysql](https://img.shields.io/badge/-mysql-%234479A1?logo=MySQL&logoColor=white&logoWidth=20)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoWidth=20)
 ![docker](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-%23009639?logo=nginx&logoColor=white)
+![jquery](https://img.shields.io/badge/-Jquery-%230769AD?logo=jQuery&logoWidth=20)
 
-![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20)
 ![Junit5](https://img.shields.io/badge/junit5-%2325A162?logo=JUnit5&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/assertJ-%23ebd9a8)
   
-### Experienced skills & languages
-![js](https://img.shields.io/badge/-java%20script-%23F7DF1E?logo=JavaScript&logoColor=black&logoWidth=20)
-![jquery](https://img.shields.io/badge/-Jquery-%230769AD?logo=jQuery&logoWidth=20)
+### Languages
+![java](https://img.shields.io/badge/-java-%23007396?logo=Java&logoWidth=20)
+![js](https://img.shields.io/badge/-javascript-%23F7DF1E?logo=JavaScript&logoColor=black&logoWidth=20)
+![typeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?logo=C&logoColor=white&logoWidth=20)
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=C++)
 
