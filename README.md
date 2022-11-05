@@ -1,7 +1,6 @@
 ### 💻 Do what you love 🛠
-### [My Blog](https://iskull-dev.tistory.com/)  
 
-### [Resume](https://www.skullkim-dev.com/)
+### [Blog & Resume](https://www.skullkim-dev.com/)
 
 ### Skills
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-mB33F?logo=SpringBoot&logoColor=white)
